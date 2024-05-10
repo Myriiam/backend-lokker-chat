@@ -1,7 +1,7 @@
 # Locker_app - API (Backend)
 
 ## Technology
-[ExpressJs](https://expressjs.com/), [nodeJs](https://nodejs.org/en) and [postgres](https://www.postgresql.org/)
+[ExpressJs](https://expressjs.com/), [nodeJs](https://nodejs.org/en) and [postgreSQL](https://www.postgresql.org/)
 
 
 ## List of endoints
